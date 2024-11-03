@@ -23,8 +23,10 @@ A: There doesn't seem to be much of a relationship between smoking and cardiovas
 
 Q: What's the relationship between cardiovascular disease and blood pressure?
 
-A: More people who have cardiovascular disease tend to have higher blood pressures than those without.
+A: More people who have cardiovascular disease tend to have higher blood pressure than those without.
 
 
 
 Q: What's the relationship between age and blood pressure?
+
+A: There is too much of a relationship between age and blood pressure as the correlation is 0.2 which is a weak positive correlation.
