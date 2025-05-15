@@ -29,4 +29,4 @@ A: More people who have cardiovascular disease tend to have higher blood pressur
 
 Q: What's the relationship between age and blood pressure?
 
-A: There is too much of a relationship between age and blood pressure as the correlation is 0.2 which is a weak positive correlation.
+A: There isn't too much of a relationship between age and blood pressure as the correlation is 0.2 which is a weak positive correlation.
